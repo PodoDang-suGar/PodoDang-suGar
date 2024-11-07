@@ -5,7 +5,7 @@
 [![PodoDang-suGar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PodoDang-suGar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pododang041209)](https://solved.ac/{handle})
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=P0doD4Ng)](https://solved.ac/{handle})
 
 <p align="right">
 <a href="https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"><img src="https://img.shields.io/badge/My Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"/></a>
