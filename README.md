@@ -6,5 +6,5 @@
 
 
 <p align="right">
-<a href="https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"><img src="https://img.shields.io/badge/My Notion-A9BCF5?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"/></a>
-<a href="https://www.instagram.com/u._.chaning/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"><img src="https://img.shields.io/badge/My Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"/></a>
+<a href="https://www.instagram.com/u._.chaning/" target="_blank"><img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
