@@ -4,7 +4,7 @@
 
 [![PodoDang-suGar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PodoDang-suGar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p0dod4ng)](https://solved.ac/p0dod4ng/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p0dod4n9_5ug4r)](https://solved.ac/p0dod4n9_5ug4r/)
 
 <p align="right">
 <a href="https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"><img src="https://img.shields.io/badge/My Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Notion-35f012c3dac44635b7aa6fa67f440e5d?pvs=4"/></a>
